@@ -1,0 +1,4 @@
+.DS_Store
+flutter/
+my_app/ios/Podfile
+my_app/macos/Podfile
